@@ -8,6 +8,4 @@ image: /09-obrazy.svg
 ---
 # Ukaž jim obrazy
 
-- Bullet point
-- Bullet point
-- Bullet point
+- Vizualizuj informace a data do grafů, přehledů a symbolů

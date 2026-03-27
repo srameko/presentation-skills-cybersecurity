@@ -8,6 +8,6 @@ image: /04-uspanek.svg
 ---
 # Nenech je usnout
 
-- Bullet point
-- Bullet point
-- Bullet point
+- Udržuj tempo 150 slov za minutu
+- Používej důraz ve větě
+- Dělej pauzy

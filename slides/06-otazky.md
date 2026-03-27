@@ -8,6 +8,8 @@ image: /06-otazky.svg
 ---
 # Připrav se na těžké otázky
 
-- Bullet point
-- Bullet point
-- Bullet point
+Na námitky vždy odpověz:
+- Empatie
+- Konkretizace
+- Argumentace
+- Ověření

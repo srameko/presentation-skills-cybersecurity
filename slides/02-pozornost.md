@@ -8,6 +8,5 @@ image: /02-pozornost.svg
 ---
 # Získej jejich pozornost
 
-- Bullet point
-- Bullet point
-- Bullet point
+- Postav se do centra pozornosti a oslov je
+- Udělej nebo řekni něco, co je překvapí

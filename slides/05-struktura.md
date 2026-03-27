@@ -8,6 +8,6 @@ image: /05-struktura.svg
 ---
 # Postav srozumitelnou strukturu
 
-- Bullet point
-- Bullet point
-- Bullet point
+- wow! -- aha! -- take away
+- kontext -- problém -- řešení
+- potřeba -- změna -- přínosy
