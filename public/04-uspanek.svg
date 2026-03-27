@@ -1,0 +1,16 @@
+<svg viewBox="0 0 220 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lightning bolt -->
+  <path d="M 140 16 L 58 158 L 114 158 L 68 304 L 172 136 L 112 136 Z" fill="#E6007E"/>
+  <!-- Yellow glow outline -->
+  <path d="M 140 16 L 58 158 L 114 158 L 68 304 L 172 136 L 112 136 Z" fill="none" stroke="#FFCB04" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Sparks -->
+  <circle cx="185" cy="82" r="8" fill="#FFCB04"/>
+  <circle cx="32" cy="210" r="6" fill="#FFCB04"/>
+  <circle cx="192" cy="188" r="5" fill="#00BFE7"/>
+  <circle cx="28" cy="150" r="4" fill="#00BFE7"/>
+  <!-- Spark lines -->
+  <line x1="177" y1="68" x2="193" y2="56" stroke="#FFCB04" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="190" y1="88" x2="206" y2="84" stroke="#FFCB04" stroke-width="3" stroke-linecap="round"/>
+  <line x1="24" y1="198" x2="14" y2="185" stroke="#FFCB04" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="26" y1="140" x2="12" y2="145" stroke="#00BFE7" stroke-width="3" stroke-linecap="round"/>
+</svg>

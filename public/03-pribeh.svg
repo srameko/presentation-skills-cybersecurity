@@ -1,0 +1,17 @@
+<svg viewBox="0 0 320 260" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Baseline -->
+  <line x1="20" y1="215" x2="300" y2="215" stroke="#e0e0e0" stroke-width="2"/>
+  <!-- Story arc -->
+  <path d="M 28 210 Q 90 70 160 44 Q 230 70 292 210" stroke="#E6007E" stroke-width="6" stroke-linecap="round"/>
+  <!-- Key points -->
+  <circle cx="28" cy="210" r="13" fill="#2D2E83"/>
+  <circle cx="160" cy="44" r="18" fill="#E6007E"/>
+  <circle cx="292" cy="210" r="13" fill="#2D2E83"/>
+  <!-- Point labels -->
+  <text x="28" y="238" text-anchor="middle" font-family="Open Sans, sans-serif" font-size="17" fill="#2D2E83" font-weight="600">Start</text>
+  <text x="160" y="24" text-anchor="middle" font-family="Open Sans, sans-serif" font-size="17" fill="#E6007E" font-weight="700">Vrchol</text>
+  <text x="292" y="238" text-anchor="middle" font-family="Open Sans, sans-serif" font-size="17" fill="#2D2E83" font-weight="600">Konec</text>
+  <!-- Rising tick marks -->
+  <path d="M 82 165 L 90 148 L 98 165" stroke="#00BFE7" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 122 108 L 130 91 L 138 108" stroke="#00BFE7" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

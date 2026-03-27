@@ -1,0 +1,19 @@
+<svg viewBox="0 0 260 320" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Rays around bulb -->
+  <line x1="130" y1="10" x2="130" y2="34" stroke="#FFCB04" stroke-width="6" stroke-linecap="round"/>
+  <line x1="52" y1="34" x2="68" y2="50" stroke="#FFCB04" stroke-width="5" stroke-linecap="round"/>
+  <line x1="208" y1="34" x2="192" y2="50" stroke="#FFCB04" stroke-width="5" stroke-linecap="round"/>
+  <line x1="22" y1="114" x2="46" y2="120" stroke="#FFCB04" stroke-width="5" stroke-linecap="round"/>
+  <line x1="238" y1="114" x2="214" y2="120" stroke="#FFCB04" stroke-width="5" stroke-linecap="round"/>
+  <!-- Bulb glass -->
+  <path d="M 72 160 Q 50 120 76 88 Q 100 52 130 52 Q 160 52 184 88 Q 210 120 188 160 Q 178 182 166 196 L 94 196 Q 82 182 72 160 Z" fill="#FFCB04" opacity="0.85"/>
+  <!-- Bulb shine -->
+  <path d="M 102 96 Q 110 128 106 158" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.55"/>
+  <path d="M 120 82 Q 126 112 122 148" stroke="white" stroke-width="3.5" stroke-linecap="round" opacity="0.4"/>
+  <!-- Checkmark inside bulb -->
+  <path d="M 108 140 L 124 156 L 158 116" stroke="#E6007E" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Base -->
+  <rect x="94" y="200" width="72" height="18" rx="5" fill="#2D2E83"/>
+  <rect x="100" y="222" width="60" height="18" rx="5" fill="#2D2E83"/>
+  <rect x="110" y="244" width="40" height="14" rx="7" fill="#2D2E83"/>
+</svg>

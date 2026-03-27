@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Eye shape -->
+  <path d="M 18 150 Q 150 42 282 150 Q 150 258 18 150 Z" fill="#FFF0F7" stroke="#E6007E" stroke-width="7" stroke-linejoin="round"/>
+  <!-- Iris -->
+  <circle cx="150" cy="150" r="52" fill="#2D2E83"/>
+  <!-- Pupil -->
+  <circle cx="150" cy="150" r="26" fill="white"/>
+  <!-- Highlight -->
+  <circle cx="164" cy="138" r="10" fill="#00BFE7"/>
+  <!-- Rays top/bottom/left/right -->
+  <line x1="150" y1="12" x2="150" y2="36" stroke="#00BFE7" stroke-width="6" stroke-linecap="round"/>
+  <line x1="150" y1="264" x2="150" y2="288" stroke="#00BFE7" stroke-width="6" stroke-linecap="round"/>
+  <line x1="12" y1="150" x2="36" y2="150" stroke="#00BFE7" stroke-width="6" stroke-linecap="round"/>
+  <line x1="264" y1="150" x2="288" y2="150" stroke="#00BFE7" stroke-width="6" stroke-linecap="round"/>
+  <!-- Diagonal rays -->
+  <line x1="46" y1="46" x2="64" y2="64" stroke="#00BFE7" stroke-width="5" stroke-linecap="round"/>
+  <line x1="254" y1="46" x2="236" y2="64" stroke="#00BFE7" stroke-width="5" stroke-linecap="round"/>
+  <line x1="46" y1="254" x2="64" y2="236" stroke="#00BFE7" stroke-width="5" stroke-linecap="round"/>
+  <line x1="254" y1="254" x2="236" y2="236" stroke="#00BFE7" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -3,10 +3,11 @@ layout: section
 ---
 # Postav srozumitelnou strukturu
 ---
-layout: default
+layout: image-right
+image: /05-struktura.svg
 ---
 # Postav srozumitelnou strukturu
 
-- wow! -- aha! -- take away
-- kontext -- problém -- řešení
-- potřeba -- změna -- přínosy
+- Bullet point
+- Bullet point
+- Bullet point

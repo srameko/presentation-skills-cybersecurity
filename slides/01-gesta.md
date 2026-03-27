@@ -3,9 +3,11 @@ layout: section
 ---
 # Používej gesta
 ---
-layout: default
+layout: image-right
+image: /01-gesta.svg
 ---
 # Používej gesta
 
-- Dovolí ti lépe dýchat
-- Zvyšují pozornost diváků
+- Bullet point
+- Bullet point
+- Bullet point

@@ -3,9 +3,11 @@ layout: section
 ---
 # Získej jejich pozornost
 ---
-layout: default
+layout: image-right
+image: /02-pozornost.svg
 ---
 # Získej jejich pozornost
 
-- Postav se do centra pozornosti a oslov je
-- Udělej nebo řekni něco, co je překvapí
+- Bullet point
+- Bullet point
+- Bullet point

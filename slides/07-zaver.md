@@ -3,10 +3,11 @@ layout: section
 ---
 # Připrav si výrazný závěr
 ---
-layout: default
+layout: image-right
+image: /07-zaver.svg
 ---
 # Připrav si výrazný závěr
 
-- Vize
-- Commitment
-- Call to Action
+- Bullet point
+- Bullet point
+- Bullet point

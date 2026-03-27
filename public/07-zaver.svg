@@ -1,0 +1,15 @@
+<svg viewBox="0 0 300 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- Staircase steps -->
+  <rect x="20" y="240" width="80" height="60" rx="6" fill="#00BFE7" opacity="0.3" stroke="#00BFE7" stroke-width="3"/>
+  <rect x="100" y="180" width="80" height="120" rx="6" fill="#2D2E83" opacity="0.3" stroke="#2D2E83" stroke-width="3"/>
+  <rect x="180" y="110" width="100" height="190" rx="6" fill="#E6007E" opacity="0.25" stroke="#E6007E" stroke-width="3"/>
+  <!-- Step numbers / medals -->
+  <circle cx="60" cy="270" r="22" fill="#00BFE7"/>
+  <text x="60" y="277" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white" font-weight="bold">3</text>
+  <circle cx="140" cy="210" r="22" fill="#2D2E83"/>
+  <text x="140" y="217" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white" font-weight="bold">2</text>
+  <circle cx="230" cy="140" r="26" fill="#E6007E"/>
+  <text x="230" y="147" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="white" font-weight="bold">1</text>
+  <!-- Star above first place -->
+  <polygon points="230,52 238,74 262,74 243,88 250,110 230,96 210,110 217,88 198,74 222,74" fill="#FFCB04" stroke="#F36F21" stroke-width="2" stroke-linejoin="round"/>
+</svg>

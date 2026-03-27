@@ -1,0 +1,22 @@
+<svg viewBox="0 0 300 340" xmlns="http://www.w3.org/2000/svg">
+  <!-- Head -->
+  <circle cx="150" cy="62" r="42" fill="#E6007E"/>
+  <!-- Body -->
+  <rect x="128" y="114" width="44" height="90" rx="16" fill="#2D2E83"/>
+  <!-- Left arm raised open -->
+  <line x1="128" y1="134" x2="38" y2="78" stroke="#2D2E83" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="38" cy="78" r="17" fill="#E6007E"/>
+  <!-- Right arm raised open -->
+  <line x1="172" y1="134" x2="262" y2="78" stroke="#2D2E83" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="262" cy="78" r="17" fill="#E6007E"/>
+  <!-- Left leg -->
+  <line x1="143" y1="204" x2="112" y2="295" stroke="#2D2E83" stroke-width="24" stroke-linecap="round"/>
+  <!-- Right leg -->
+  <line x1="157" y1="204" x2="188" y2="295" stroke="#2D2E83" stroke-width="24" stroke-linecap="round"/>
+  <!-- Gesture arcs left hand -->
+  <path d="M 16 62 Q 4 50 10 38" stroke="#00BFE7" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 14 80 Q 0 76 4 63" stroke="#00BFE7" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <!-- Gesture arcs right hand -->
+  <path d="M 284 62 Q 296 50 290 38" stroke="#00BFE7" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M 286 80 Q 300 76 296 63" stroke="#00BFE7" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.7"/>
+</svg>

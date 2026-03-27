@@ -1,0 +1,29 @@
+<svg viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- Frame outer -->
+  <rect x="14" y="14" width="272" height="232" rx="14" fill="#2D2E83"/>
+  <!-- Frame inner / canvas -->
+  <rect x="30" y="30" width="240" height="200" rx="8" fill="white"/>
+  <!-- Sky gradient area -->
+  <rect x="38" y="38" width="224" height="110" rx="5" fill="#00BFE7" opacity="0.22"/>
+  <!-- Sun -->
+  <circle cx="244" cy="72" r="28" fill="#FFCB04"/>
+  <!-- Sun rays -->
+  <line x1="244" y1="36" x2="244" y2="44" stroke="#FFCB04" stroke-width="3" stroke-linecap="round"/>
+  <line x1="265" y1="50" x2="271" y2="44" stroke="#FFCB04" stroke-width="3" stroke-linecap="round"/>
+  <line x1="280" y1="72" x2="276" y2="72" stroke="#FFCB04" stroke-width="3" stroke-linecap="round"/>
+  <!-- Mountain left -->
+  <path d="M 38 148 L 110 76 L 182 148 Z" fill="#2D2E83" opacity="0.45"/>
+  <!-- Mountain right -->
+  <path d="M 118 148 L 196 88 L 274 148 Z" fill="#2D2E83" opacity="0.65"/>
+  <!-- Snow caps -->
+  <path d="M 90 93 L 110 76 L 130 93 Q 110 88 90 93 Z" fill="white" opacity="0.8"/>
+  <path d="M 176 106 L 196 88 L 216 106 Q 196 100 176 106 Z" fill="white" opacity="0.8"/>
+  <!-- Ground -->
+  <rect x="38" y="148" width="224" height="82" rx="0" fill="#8CC63E" opacity="0.35"/>
+  <rect x="38" y="196" width="224" height="34" rx="0 0 5 5" fill="#8CC63E" opacity="0.25"/>
+  <!-- Corner pins -->
+  <circle cx="30" cy="30" r="9" fill="#E6007E"/>
+  <circle cx="270" cy="30" r="9" fill="#E6007E"/>
+  <circle cx="30" cy="230" r="9" fill="#E6007E"/>
+  <circle cx="270" cy="230" r="9" fill="#E6007E"/>
+</svg>

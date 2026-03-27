@@ -3,9 +3,11 @@ layout: section
 ---
 # Zdůrazni užitek
 ---
-layout: default
+layout: image-right
+image: /08-uzitek.svg
 ---
 # Zdůrazni užitek
 
-- Dej jim důvod, proč **to** mají poslouchat
-- Proč mají poslouchat právě **TEBE**
+- Bullet point
+- Bullet point
+- Bullet point
