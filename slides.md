@@ -1,20 +1,21 @@
 ---
 theme: ./theme
-title: Prezentační dovednosti
+title: "Prezentační dovednosti"
+info: "Jak prezentovat a vystupovat před lidmi"
+author: Ondřej Šrámek
 mdc: true
 shiki:
   theme: github-light
+favicon: /favicon.png  
 fonts:
   sans: Open Sans
   mono: Source Code Pro
 ---
----
-layout: cover
-subtitle: Digital Academy — Cybersecurity
-author: Ondřej Šrámek
-date: March 2026
----
 # Prezentační dovednosti
+
+Jak prezentovat a vystupovat před lidmi
+
+Ondřej Šrámek · Czechitas · Květen 2026
 ---
 layout: bio
 image: /ondrej.png
