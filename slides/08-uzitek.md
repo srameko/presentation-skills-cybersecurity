@@ -7,6 +7,5 @@ layout: default
 ---
 # Zdůrazni užitek
 
-- Bullet point
-- Bullet point
-- Bullet point
+- Dej jim důvod, proč **to** mají poslouchat
+- Proč mají poslouchat právě **TEBE**

@@ -7,6 +7,6 @@ layout: default
 ---
 # Vyprávěj příběh
 
-- Bullet point
-- Bullet point
-- Bullet point
+- Před jakými překážkami jsi stála?
+- Jak jsi je překonala?
+- Jaký to mělo smysl?

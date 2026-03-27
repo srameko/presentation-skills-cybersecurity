@@ -7,6 +7,6 @@ layout: default
 ---
 # Připrav si výrazný závěr
 
-- Bullet point
-- Bullet point
-- Bullet point
+- Vize
+- Commitment
+- Call to Action

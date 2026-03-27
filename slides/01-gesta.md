@@ -7,6 +7,5 @@ layout: default
 ---
 # Používej gesta
 
-- Bullet point
-- Bullet point
-- Bullet point
+- Dovolí ti lépe dýchat
+- Zvyšují pozornost diváků
