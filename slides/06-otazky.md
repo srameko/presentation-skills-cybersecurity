@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Připrav se na těžké otázky
 ---
 # Připrav se na těžké otázky
 ---

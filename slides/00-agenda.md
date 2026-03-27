@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Co dnes probereme
 ---
 # Agenda
 ---

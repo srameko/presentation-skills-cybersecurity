@@ -1,8 +1,6 @@
 ---
 theme: ./theme
 title: Prezentační dovednosti
-author: Ondřej Šrámek
-date: March 2026
 mdc: true
 shiki:
   theme: github-light

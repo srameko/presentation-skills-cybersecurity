@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Získej jejich pozornost
 ---
 # Získej jejich pozornost
 ---

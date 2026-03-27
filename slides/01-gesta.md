@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Používej gesta
 ---
 # Používej gesta
 ---

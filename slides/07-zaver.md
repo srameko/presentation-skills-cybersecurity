@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Připrav si výrazný závěr
 ---
 # Připrav si výrazný závěr
 ---

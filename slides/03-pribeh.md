@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Vyprávěj příběh
 ---
 # Vyprávěj příběh
 ---

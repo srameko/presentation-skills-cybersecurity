@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Postav srozumitelnou strukturu
 ---
 # Postav srozumitelnou strukturu
 ---

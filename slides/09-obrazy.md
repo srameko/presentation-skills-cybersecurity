@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Ukaž jim obrazy
 ---
 # Ukaž jim obrazy
 ---

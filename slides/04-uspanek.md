@@ -1,6 +1,5 @@
 ---
 layout: section
-subtitle: Nenech je usnout
 ---
 # Nenech je usnout
 ---
