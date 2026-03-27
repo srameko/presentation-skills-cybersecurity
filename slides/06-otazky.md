@@ -10,7 +10,7 @@ layout: default
 Na námitky vždy odpověz:
 
 ```mermaid
-graph LR
+graph TD
     A([😊 Empatie]) --> B([🔍 Konkretizace]) --> C([💬 Argumentace]) --> D([✅ Ověření])
     style A fill:#E6007E,stroke:none,color:#fff
     style B fill:#2D2E83,stroke:none,color:#fff
