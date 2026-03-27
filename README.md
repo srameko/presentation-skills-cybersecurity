@@ -1,25 +1,12 @@
-# Slidev Template for Czechitas Cyber Security Classes
+# Prezentační dovednosti
 
-# Course Title
-
-One paragraph describing what the presentation covers and which Czechitas course it belongs to.
-
-## Setup
-
-After creating a repo from this template, replace all occurrences of `REPO_NAME` with the actual repository name:
-- `package.json` — `name` field and `build` script
-- `.github/workflows/deploy-slides.yml` — PDF export step
-
-Then update `slides.md`:
-- `title`, `author`, `date` in frontmatter
-- Cover slide heading
-- Bio slide details
+Prezentace pro kurz Digital Academy: Cybersecurity od Czechitas. Téma: prezentační dovednosti — jak efektivně připravit a přednést prezentaci.
 
 ## Slides
 
 Latest version available online:
-https://srameko.github.io/REPO_NAME/
+https://srameko.github.io/presentation-skills-cybersecurity/
 
 ## Download PDF
 
-[REPO_NAME.pdf](https://srameko.github.io/REPO_NAME/REPO_NAME.pdf)
+[presentation-skills-cybersecurity.pdf](https://srameko.github.io/presentation-skills-cybersecurity/presentation-skills-cybersecurity.pdf)

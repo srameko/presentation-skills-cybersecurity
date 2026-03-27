@@ -1,9 +1,9 @@
 {
-  "name": "czechitas-REPO_NAME",
+  "name": "czechitas-presentation-skills-cybersecurity",
   "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /REPO_NAME/ --out dist",
+    "build": "slidev build --base /presentation-skills-cybersecurity/ --out dist",
     "preview": "npm run build && npx serve dist -l 4000"
   },
   "dependencies": {

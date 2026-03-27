@@ -40,7 +40,7 @@ jobs:
         run: npm run build
 
       - name: Export PDF
-        run: npx slidev export --output dist/REPO_NAME.pdf
+        run: npx slidev export --output dist/presentation-skills-cybersecurity.pdf
 
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3

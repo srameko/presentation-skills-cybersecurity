@@ -1,8 +1,8 @@
 ---
 theme: ./theme
-title: Course Title
-author: Lecturer Name
-date: Month YYYY
+title: Prezentační dovednosti
+author: Ondřej Šrámek
+date: March 2026
 mdc: true
 shiki:
   theme: github-light
@@ -13,9 +13,9 @@ fonts:
 layout: cover
 subtitle: Digital Academy — Cybersecurity
 author: Ondřej Šrámek
-date: Month YYYY
+date: March 2026
 ---
-# Course Title
+# Prezentační dovednosti
 ---
 layout: bio
 image: /ondrej.png
@@ -30,7 +30,31 @@ subtitle: "GMON, GNFA, GCTI"
 src: ./slides/00-agenda.md
 ---
 ---
-src: ./slides/01-topic.md
+src: ./slides/01-gesta.md
+---
+---
+src: ./slides/02-pozornost.md
+---
+---
+src: ./slides/03-pribeh.md
+---
+---
+src: ./slides/04-uspanek.md
+---
+---
+src: ./slides/05-struktura.md
+---
+---
+src: ./slides/06-otazky.md
+---
+---
+src: ./slides/07-zaver.md
+---
+---
+src: ./slides/08-uzitek.md
+---
+---
+src: ./slides/09-obrazy.md
 ---
 ---
 layout: center
@@ -45,4 +69,4 @@ layout: center
 # Thank You for Your Attention!
 Ondřej Šrámek
 
-**Czechitas · DA <Test|Cybersecurity> · 202X**
+**Czechitas · DA Cybersecurity · 2026**
