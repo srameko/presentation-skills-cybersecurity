@@ -60,8 +60,7 @@ layout: center
 ---
 # Feedback
 
-<!-- TODO: Replace URL with the actual feedback form link -->
-<QRCode url="https://moje.czechitas.cz/cs/zpetna-vazba" :size="200">Feedback form</QRCode>
+<QRCode url="https://moje.czechitas.cz/cs/zpetna-vazba" :size="200"></QRCode>
 ---
 layout: center
 ---
