@@ -9,6 +9,14 @@ layout: default
 
 <div class="icon-grid">
   <div class="icon-card">
+    <div class="icon">🧍</div>
+    <div class="label">Postoj, neverbální komunikace a mikrofon</div>
+  </div>
+  <div class="icon-card">
+    <div class="icon">🎤</div>
+    <div class="label">Krátká cvičení během lekce</div>
+  </div>
+  <div class="icon-card">
     <div class="icon">🙌</div>
     <div class="label">Používej gesta</div>
   </div>
