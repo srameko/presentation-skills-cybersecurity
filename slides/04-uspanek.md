@@ -4,7 +4,7 @@ layout: section
 # Nenech je usnout
 ---
 layout: image-right
-image: /04-uspanek.svg
+image: /uspanek.jpg
 ---
 # Nenech je usnout
 

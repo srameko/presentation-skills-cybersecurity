@@ -4,7 +4,7 @@ layout: section
 # Vyprávěj příběh
 ---
 layout: image-right
-image: /03-pribeh.svg
+image: /pribeh.jpg
 ---
 # Vyprávěj příběh
 

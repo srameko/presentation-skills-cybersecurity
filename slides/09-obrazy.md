@@ -4,7 +4,7 @@ layout: section
 # Ukaž jim obrazy
 ---
 layout: image-right
-image: /09-obrazy.svg
+image: /obrazek.jpg
 ---
 # Ukaž jim obrazy
 

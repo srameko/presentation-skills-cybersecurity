@@ -4,7 +4,7 @@ layout: section
 # Používej gesta
 ---
 layout: image-right
-image: /01-gesta.svg
+image: /gesta.jpg
 ---
 # Používej gesta
 

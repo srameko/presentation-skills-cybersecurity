@@ -4,7 +4,7 @@ layout: section
 # Zdůrazni užitek
 ---
 layout: image-right
-image: /08-uzitek.svg
+image: /uzitek.jpg
 ---
 # Zdůrazni užitek
 

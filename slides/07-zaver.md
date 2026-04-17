@@ -4,7 +4,7 @@ layout: section
 # Připrav si výrazný závěr
 ---
 layout: image-right
-image: /07-zaver.svg
+image: /zaver.jpg
 ---
 # Připrav si výrazný závěr
 

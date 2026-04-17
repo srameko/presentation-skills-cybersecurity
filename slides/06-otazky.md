@@ -3,7 +3,8 @@ layout: section
 ---
 # Připrav se na těžké otázky
 ---
-layout: default
+layout: image-right
+image: /otazky.jpg
 ---
 # Připrav se na těžké otázky
 
