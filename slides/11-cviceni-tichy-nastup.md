@@ -1,20 +1,20 @@
 ---
 layout: section
 ---
-# Cviceni: Tichy nastup
+# Cvičení: Tichý nástup
 ---
 layout: default
 ---
-# Cviceni 1: Tichy nastup (10-15 min)
+# Cvičení 1: Tichý nástup (10–15 min)
 
-1. Postav se pred skupinu, 3 sekundy mlc a jen navaz oci kontakt.
-2. Rekni jednu uvodni vetu k tematu (max 15 sekund).
-3. Zastav se a nech si dat kratkou zpetnou vazbu od dvojice.
+1. Postav se před skupinu, 3 sekundy mlč a jen navaž oční kontakt.
+2. Řekni jednu úvodní větu k tématu (max. 15 sekund).
+3. Zastav se a nech si dát krátkou zpětnou vazbu od dvojice.
 
 <div class="callout">
-Sledujeme: postoj, klid, oci kontakt, prvni dojem.
+Sledujeme: postoj, klid, oční kontakt, první dojem.
 </div>
 
 <div class="callout warning">
-Tip pro lektora: jedte rychly format "1 vec fungovala + 1 vec zkus jinak".
+Tip pro lektora: jeďte rychlý formát „1 věc fungovala + 1 věc zkus jinak“.
 </div>

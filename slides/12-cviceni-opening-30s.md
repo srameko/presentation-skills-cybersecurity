@@ -1,22 +1,22 @@
 ---
 layout: section
 ---
-# Cviceni: Opening 30 sekund
+# Cvičení: Opening 30 sekund
 ---
 layout: default
 ---
-# Cviceni 2: Opening 30 sekund (15-20 min)
+# Cvičení 2: Opening 30 sekund (15–20 min)
 
-Kazdy si pripravi uvod ve strukture:
+Každý si připraví úvod ve struktuře:
 
-- Hook: jedna veta, ktera ziska pozornost
-- Proc to ma publikum poslouchat
-- Proc to prezentujes prave ty
+- Hook: jedna věta, která získá pozornost
+- Proč to má publikum poslouchat
+- Proč to prezentuješ právě ty
 
 <div class="callout">
-Format: 30 sekund vystup + 30 sekund feedback ve dvojicich.
+Formát: 30 sekund výstup + 30 sekund feedback ve dvojicích.
 </div>
 
 <div class="callout warning">
-Cil: mluvit jednoduse, konkretne a bez cteni ze slidu.
+Cíl: mluvit jednoduše, konkrétně a bez čtení ze slidů.
 </div>

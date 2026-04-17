@@ -1,19 +1,19 @@
 ---
 layout: section
 ---
-# Postoj, neverbalni komunikace a mikrofon
+# Postoj, neverbální komunikace a mikrofon
 ---
 layout: default
 ---
-# Postoj, neverbalni komunikace a mikrofon
+# Postoj, neverbální komunikace a mikrofon
 
-- Zacni stabilnim postojem: nohy na sirku ramen, ramena dolu, hlava vzhuru
-- Otevrene dlane a klidna gesta pomahaji pusobit sebejiste
-- Oci stridej mezi castmi publika, ne jen na monitor nebo jednu osobu
-- Mikrofon drz zhruba 5-10 cm od ust, nemluv mimo osu
-- Drz konzistentni hlasitost, pracuj s pauzou a durazem, ne s krikem
-- Kdyz mluvis s handheldem, nehraj si s nim a neotacej ho od ust
+- Začni stabilním postojem: nohy na šířku ramen, ramena dolů, hlava vzhůru
+- Otevřené dlaně a klidná gesta pomáhají působit sebejistě
+- Oči střídej mezi částmi publika, ne jen na monitor nebo jednu osobu
+- Mikrofon drž zhruba 5–10 cm od úst, nemluv mimo osu
+- Drž konzistentní hlasitost, pracuj s pauzou a důrazem, ne s křikem
+- Když mluvíš s handheldem, nehraj si s ním a neotáčej ho od úst
 
 <div class="callout warning">
-Nejcastejsi chyby: zavreny postoj, rychla rec bez pauz, "bloudeni" po podiu bez zameru.
+Nejčastější chyby: zavřený postoj, rychlá řeč bez pauz, „bloudění“ po pódiu bez záměru.
 </div>

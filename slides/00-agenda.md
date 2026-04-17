@@ -7,14 +7,14 @@ layout: default
 ---
 # Agenda
 
-<div class="icon-grid">
+<div class="icon-grid agenda-grid">
   <div class="icon-card">
     <div class="icon">🧍</div>
-    <div class="label">Postoj, neverbální komunikace a mikrofon</div>
+    <div class="label">Postoj a mikrofon</div>
   </div>
   <div class="icon-card">
     <div class="icon">🎤</div>
-    <div class="label">Krátká cvičení během lekce</div>
+    <div class="label">Krátká cvičení</div>
   </div>
   <div class="icon-card">
     <div class="icon">🙌</div>
@@ -30,7 +30,7 @@ layout: default
   </div>
   <div class="icon-card">
     <div class="icon">⚡</div>
-    <div class="label">Nenech je usnout</div>
+    <div class="label">Tempo a energie</div>
   </div>
   <div class="icon-card">
     <div class="icon">🏗️</div>
@@ -53,3 +53,25 @@ layout: default
     <div class="label">Ukaž jim obrazy</div>
   </div>
 </div>
+
+<style>
+.slidev-layout .agenda-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin: 0.7rem 0;
+}
+
+.slidev-layout .agenda-grid .icon-card {
+  padding: 0.65em 0.5em;
+}
+
+.slidev-layout .agenda-grid .icon-card .icon {
+  font-size: 1.35rem;
+  margin-bottom: 0.2em;
+}
+
+.slidev-layout .agenda-grid .icon-card .label {
+  font-size: 0.76rem;
+  line-height: 1.2;
+}
+</style>
