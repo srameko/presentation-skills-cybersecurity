@@ -10,7 +10,3 @@ layout: default
 <div class="callout">
 Sledujeme: klid pod tlakem, věcnost odpovědí, jak zvládá ticho a přemýšlení.
 </div>
-
-<div class="callout warning">
-Tip pro lektora: připrav kartičky s otázkami předem — „Proč jsi to neudělala jinak?", „Tohle přece nefunguje.", „Máš na to vůbec kvalifikaci?"
-</div>

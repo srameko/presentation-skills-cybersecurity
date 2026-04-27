@@ -12,7 +12,3 @@ Checklist:
 - práce s hlasem (tempo, pauza, důraz)
 - oční kontakt a neverbální projev
 - srozumitelná struktura a jasný závěr
-
-<div class="callout">
-Volitelně: pokud je k dispozici mikrofon, část dvojic jede s mikrofonem.
-</div>
