@@ -37,7 +37,7 @@ const imageSrc = computed(() => {
   position: relative;
   height: 100%;
   background: #ffffff;
-  align-items: center;
+  align-items: start;
 }
 .left-content {
   padding-right: 1rem;
