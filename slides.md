@@ -72,6 +72,9 @@ layout: section
 src: ./slides/10-postoj-neverbalni-mikrofon.md
 ---
 ---
+src: ./slides/16-technika.md
+---
+---
 src: ./slides/01-gesta.md
 ---
 ---

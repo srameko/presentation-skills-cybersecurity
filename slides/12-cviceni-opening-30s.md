@@ -10,7 +10,7 @@ Každý si připraví úvod ve struktuře:
 - Proč to prezentuješ právě ty
 
 <div class="callout">
-Formát: 30 sekund výstup + 30 sekund feedback ve dvojicích.
+Formát: 30 sekund výstup + 30 sekund feedback 
 </div>
 
 <div class="callout warning">

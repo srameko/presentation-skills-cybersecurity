@@ -9,7 +9,7 @@ Tréma není nepřítel — je to **energie**. Tělo se připravuje na výkon.
 
 Problém není tréma samotná, ale to, jak ji **interpretujeme**.
 
-<div class="callout">💡 Reframe: „Jsem nervózní" → „Jsem připravená. Tělo mi dává energii."</div>
+<div class="callout">💡 Reframe: „Jsem nervózní" → „Jsem připravený. Tělo mi dává energii."</div>
 ---
 layout: default
 ---
@@ -17,7 +17,7 @@ layout: default
 
 | Příznak | Co to je | Co pomáhá |
 |---|---|---|
-| Rychlý tep | Adrenalin | Pomalý výdech (4–6 s) |
+| Rychlý tep | Adrenalin | Pomalý výdech (4 sec.) |
 | Třesoucí se hlas | Napjaté svaly | Hluboký nádech před nástupem |
 | Prázdná hlava | Stres blokuje přístup k paměti | Připravený opening nazpaměť |
 | Rudnutí | Průtok krve | Normální, publikum si toho nevšimne |
@@ -28,7 +28,7 @@ layout: default
 
 **2 minuty před nástupem:**
 
-- Pomalý nádech nosem (4 s) → výdech ústy (6 s) — opakuj 3×
+- Pomalý nádech nosem (4 s) → výdech ústy (4 s) — opakuj 4×
 - Stůj rovně, ramena dozadu — tělo ovlivňuje mysl
 - Zaměř se na **jednu první větu**, ne na celou prezentaci
 
