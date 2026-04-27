@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Vyprávěj příběh
----
 layout: image-right
 image: /pribeh.jpg
 ---

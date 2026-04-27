@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Cvičení: Opening 30 sekund
----
 layout: default
 ---
 # Cvičení 2: Opening 30 sekund (15–20 min)

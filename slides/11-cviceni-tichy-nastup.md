@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Cvičení: Tichý nástup
----
 layout: default
 ---
 # Cvičení 1: Tichý nástup (10–15 min)
@@ -16,5 +12,5 @@ Sledujeme: postoj, klid, oční kontakt, první dojem.
 </div>
 
 <div class="callout warning">
-Tip pro lektora: jeďte rychlý formát „1 věc fungovala + 1 věc zkus jinak“.
+Tip pro lektora: jeďte rychlý formát „1 věc fungovala + 1 věc zkus jinak".
 </div>

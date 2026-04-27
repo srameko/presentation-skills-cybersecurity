@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Zdůrazni užitek
----
 layout: image-right
 image: /uzitek.jpg
 ---

@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Připrav se na těžké otázky
----
 layout: image-right
 image: /otazky.jpg
 ---

@@ -1,12 +1,8 @@
 ---
-layout: section
----
-# Nenech je usnout
----
 layout: image-right
 image: /uspanek.jpg
 ---
-# Nenech je usnout
+# Tempo a energie
 
 - Udržuj tempo 150 slov za minutu
 - Používej důraz ve větě

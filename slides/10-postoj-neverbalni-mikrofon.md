@@ -1,11 +1,7 @@
 ---
-layout: section
----
-# Postoj, neverbální komunikace a mikrofon
----
 layout: default
 ---
-# Postoj, neverbální komunikace a mikrofon
+# Postoj a mikrofon
 
 - Začni stabilním postojem: nohy na šířku ramen, ramena dolů, hlava vzhůru
 - Otevřené dlaně a klidná gesta pomáhají působit sebejistě
@@ -15,5 +11,5 @@ layout: default
 - Když mluvíš s handheldem, nehraj si s ním a neotáčej ho od úst
 
 <div class="callout warning">
-Nejčastější chyby: zavřený postoj, rychlá řeč bez pauz, „bloudění“ po pódiu bez záměru.
+Nejčastější chyby: zavřený postoj, rychlá řeč bez pauz, „bloudění" po pódiu bez záměru.
 </div>

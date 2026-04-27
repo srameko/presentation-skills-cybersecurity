@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Používej gesta
----
 layout: image-right
 image: /gesta.jpg
 ---

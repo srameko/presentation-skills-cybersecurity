@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Cvičení: Mikro-prezentace
----
 layout: default
 ---
 # Cvičení 3: Mikro-prezentace 90 sekund (20–25 min)

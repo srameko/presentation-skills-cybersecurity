@@ -30,26 +30,28 @@ subtitle: "GMON, GNFA, GCTI"
 src: ./slides/00-agenda.md
 ---
 ---
-src: ./slides/10-postoj-neverbalni-mikrofon.md
+layout: section
 ---
+# Začátek
 ---
-src: ./slides/01-gesta.md
----
----
-src: ./slides/11-cviceni-tichy-nastup.md
+src: ./slides/14-nervozita.md
 ---
 ---
 src: ./slides/02-pozornost.md
 ---
 ---
-src: ./slides/03-pribeh.md
+src: ./slides/07-zaver.md
+---
+---
+src: ./slides/11-cviceni-tichy-nastup.md
 ---
 ---
 src: ./slides/12-cviceni-opening-30s.md
 ---
 ---
-src: ./slides/04-uspanek.md
+layout: section
 ---
+# Obsah
 ---
 src: ./slides/05-struktura.md
 ---
@@ -57,16 +59,36 @@ src: ./slides/05-struktura.md
 src: ./slides/08-uzitek.md
 ---
 ---
+src: ./slides/03-pribeh.md
+---
+---
 src: ./slides/09-obrazy.md
+---
+---
+layout: section
+---
+# Doručení
+---
+src: ./slides/10-postoj-neverbalni-mikrofon.md
+---
+---
+src: ./slides/01-gesta.md
+---
+---
+src: ./slides/04-uspanek.md
 ---
 ---
 src: ./slides/13-cviceni-mikro-prezentace.md
 ---
 ---
+layout: section
+---
+# Nečekané
+---
 src: ./slides/06-otazky.md
 ---
 ---
-src: ./slides/07-zaver.md
+src: ./slides/15-cviceni-hot-seat.md
 ---
 ---
 layout: center

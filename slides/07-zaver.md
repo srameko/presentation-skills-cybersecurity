@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Připrav si výrazný závěr
----
 layout: image-right
 image: /zaver.jpg
 ---

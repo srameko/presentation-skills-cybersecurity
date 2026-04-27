@@ -1,8 +1,4 @@
 ---
-layout: section
----
-# Získej jejich pozornost
----
 layout: image-right
 image: /pozornost.jpg
 ---
