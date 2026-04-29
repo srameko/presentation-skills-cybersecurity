@@ -7,7 +7,7 @@ layout: default
 2. Switch roles.
 3. Brief group share: what worked best.
 
-Check:
+## Check
 - stable posture
 - voice work (pace, pause, emphasis)
 - eye contact and non-verbal expression
