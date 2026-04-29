@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-# Cvičení 2: Opening 30 sekund (15–20 min)
+# Exercise 2: Opening 30 Seconds (15–20 min)
 
-Každá si připraví úvod ve struktuře:
+Everyone prepares an opening using this structure:
 
-- Hook: jedna věta, která získá pozornost
-- Proč to má publikum poslouchat
-- Proč to prezentuješ právě ty
+- Hook: one sentence that captures attention
+- Why the audience should listen
+- Why you are the right person to present this
 
 <div class="callout">
-Formát: 30 sekund výstup + 30 sekund feedback 
+Format: 30 seconds presentation + 30 seconds feedback
 </div>
 
 <div class="callout warning">
-Cíl: mluvit jednoduše, konkrétně a bez čtení ze slidů.
+Goal: speak simply, concretely, without reading from slides.
 </div>

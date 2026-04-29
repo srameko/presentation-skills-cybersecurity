@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# Postav srozumitelnou strukturu
+# Build a Clear Structure
 
 <div class="structure-grid">
   <div>
-    <h3>💥 Aha efekt</h3>
+    <h3>💥 The Aha Effect</h3>
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables': {'primaryColor':'#ffffff','primaryTextColor':'#2D2E83','primaryBorderColor':'#2D2E83','lineColor':'#2D2E83','secondaryColor':'#ffffff','tertiaryColor':'#ffffff','background':'#ffffff'}}}%%
@@ -18,12 +18,12 @@ graph TD
   </div>
 
   <div>
-    <h3>🔍 Problém</h3>
+    <h3>🔍 Problem</h3>
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables': {'primaryColor':'#ffffff','primaryTextColor':'#2D2E83','primaryBorderColor':'#2D2E83','lineColor':'#2D2E83','secondaryColor':'#ffffff','tertiaryColor':'#ffffff','background':'#ffffff'}}}%%
 graph TD
-  A([kontext]) --> B([problém]) --> C([řešení])
+  A([context]) --> B([problem]) --> C([solution])
   style A fill:#ffffff,stroke:#2D2E83,color:#2D2E83,stroke-width:2px
   style B fill:#ffffff,stroke:#2D2E83,color:#2D2E83,stroke-width:2px
   style C fill:#ffffff,stroke:#2D2E83,color:#2D2E83,stroke-width:2px
@@ -31,12 +31,12 @@ graph TD
   </div>
 
   <div>
-    <h3>💡 Přínos</h3>
+    <h3>💡 Value</h3>
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables': {'primaryColor':'#ffffff','primaryTextColor':'#2D2E83','primaryBorderColor':'#2D2E83','lineColor':'#2D2E83','secondaryColor':'#ffffff','tertiaryColor':'#ffffff','background':'#ffffff'}}}%%
 graph TD
-  A([potřeba]) --> B([změna]) --> C([přínosy])
+  A([need]) --> B([change]) --> C([benefits])
   style A fill:#ffffff,stroke:#00BFE7,color:#2D2E83,stroke-width:2px
   style B fill:#ffffff,stroke:#00BFE7,color:#2D2E83,stroke-width:2px
   style C fill:#ffffff,stroke:#00BFE7,color:#2D2E83,stroke-width:2px

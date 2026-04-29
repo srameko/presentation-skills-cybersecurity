@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-# Cvičení 3: Mikro-prezentace 90 sekund (20–25 min)
+# Exercise 3: Micro-presentation 90 Seconds (20–25 min)
 
-1. Ve dvojici: jedna prezentuje 90 sekund, druhá sleduje podle checklistu.
-2. Výměna rolí.
-3. Krátké sdílení ve skupině: co fungovalo nejlíp.
+1. In pairs: one presents for 90 seconds, the other observes using the checklist.
+2. Switch roles.
+3. Brief group share: what worked best.
 
-Zkontroluj si:
-- stabilní postoj
-- práce s hlasem (tempo, pauza, důraz)
-- oční kontakt a neverbální projev
-- srozumitelná struktura a jasný závěr
+Check:
+- stable posture
+- voice work (pace, pause, emphasis)
+- eye contact and non-verbal expression
+- clear structure and a strong closing

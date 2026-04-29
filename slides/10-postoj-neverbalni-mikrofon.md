@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-# Neverbální komunikace
+# Non-verbal Communication
 
-- Začni stabilním postojem: nohy na šířku ramen, ramena dolů, hlava vzhůru
-- Otevřené dlaně a klidná gesta pomáhají působit sebejistě
-- Pohledem si čas od času prohlédni publikum, ne jen monitor nebo jednu osobu
+- Start with a stable stance: feet shoulder-width apart, shoulders down, head up
+- Open palms and calm gestures help you appear confident
+- Regularly scan the audience with your eyes — not just the monitor or one person
 
 <div class="callout">
-Buď sama sebou, autentická.
+Be yourself, be authentic.
 </div>
 
 
 <div class="callout warning">
-Nejčastější chyby: zavřený postoj, otáčení se zády k publiku, „bloudění" po pódiu bez záměru.
+Most common mistakes: closed posture, turning your back to the audience, wandering the stage without purpose.
 </div>

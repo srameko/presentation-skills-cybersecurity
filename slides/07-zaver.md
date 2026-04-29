@@ -2,8 +2,8 @@
 layout: image-right
 image: /zaver.jpg
 ---
-# Připrav si výrazný závěr
+# Prepare a Strong Closing
 
-- Vize
+- Vision
 - Commitment
 - Call to Action

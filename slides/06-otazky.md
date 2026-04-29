@@ -2,13 +2,13 @@
 layout: image-right
 image: /otazky.jpg
 ---
-# Připrav se na těžké otázky
+# Prepare for Tough Questions
 
 <div class="flex justify-center">
 
 ```mermaid
 graph TD
-    A([😊 Empatie]) --> B([🔍 Konkretizace]) --> C([💬 Argumentace]) --> D([✅ Ověření])
+    A([😊 Empathy]) --> B([🔍 Clarification]) --> C([💬 Argumentation]) --> D([✅ Confirmation])
     style A fill:#E6007E,stroke:none,color:#fff
     style B fill:#2D2E83,stroke:none,color:#fff
     style C fill:#2D2E83,stroke:none,color:#fff

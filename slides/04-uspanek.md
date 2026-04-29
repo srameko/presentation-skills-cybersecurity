@@ -2,8 +2,8 @@
 layout: image-right
 image: /uspanek.jpg
 ---
-# Tempo a energie
+# Pace and Energy
 
-- Udržuj tempo 150 slov za minutu
-- Používej důraz ve větě
-- Dělej pauzy
+- Maintain a pace of 150 words per minute
+- Use emphasis within sentences
+- Use pauses

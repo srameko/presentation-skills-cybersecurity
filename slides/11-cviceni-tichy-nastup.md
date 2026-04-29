@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-# Cvičení 1: Tichý nástup (10–15 min)
+# Exercise 1: Silent Entry (10–15 min)
 
-1. Postav se před skupinu, 3 sekundy mlč a jen navaž oční kontakt.
-2. Řekni jednu úvodní větu k tématu (max. 15 sekund).
-3. Zastav se a nech si dát krátkou zpětnou vazbu od dvojice.
+1. Stand in front of the group, stay silent for 3 seconds, and just make eye contact.
+2. Say one opening sentence about your topic (max. 15 seconds).
+3. Stop and ask your partner for brief feedback.
 
 <div class="callout">
-Sledujeme: postoj, klid, oční kontakt, první dojem.
+We focus on: posture, calm, eye contact, first impression.
 </div>

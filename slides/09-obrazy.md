@@ -2,13 +2,13 @@
 layout: image-right
 image: /obrazy.jpg
 ---
-# Vizualizuj — nepopisuj
+# Visualise — Don't Describe
 
-| Místo textu | Použij |
+| Instead of text | Use |
 |---|---|
-| Seznam faktů | Graf, infografika |
-| Srovnání | Tabulka nebo 2 sloupce |
-| Proces | Šipky, diagram |
-| Číslo | Velké číslo + kontext |
-| Příběh | Fotka, ilustrace |
+| List of facts | Chart, infographic |
+| Comparison | Table or 2 columns |
+| Process | Arrows, diagram |
+| Number | Big number + context |
+| Story | Photo, illustration |
 

@@ -2,8 +2,8 @@
 layout: image-right
 image: /pribeh.jpg
 ---
-# Vyprávěj příběh
+# Tell a Story
 
-- Před jakými překážkami jsi stála?
-- Jak jsi je překonala?
-- Jaký to mělo smysl?
+- What obstacles did you face?
+- How did you overcome them?
+- What was the meaning behind it?

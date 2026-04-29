@@ -1,35 +1,35 @@
 ---
 layout: default
 ---
-# Tréma je normální
+# Nerves Are Normal
 
-> I zkušené řečnice mají před výstupem zvýšený tep.
+> Even experienced speakers have an elevated heart rate before going on stage.
 
-Tréma není nepřítel — je to **energie**. Tělo se připravuje na výkon.
+Nerves are not your enemy — they are **energy**. Your body is preparing for performance.
 
-Problém není tréma samotná, ale to, jak ji **interpretujeme**.
+The problem is not the nerves themselves, but how we **interpret** them.
 
-<div class="callout">💡 Reframe: „Jsem nervózní" → „Jsem připravená. Tělo mi dává energii."</div>
+<div class="callout">💡 Reframe: "I'm nervous" → "I'm ready. My body is giving me energy."</div>
 ---
 layout: default
 ---
-# Co tréma způsobuje — a co s tím
+# What Nerves Do — and What Helps
 
-| Příznak | Co to je | Co pomáhá |
+| Symptom | What it is | What helps |
 |---|---|---|
-| Rychlý tep | Adrenalin | Pomalý výdech (4 sec.) |
-| Třesoucí se hlas | Napjaté svaly | Hluboký nádech před nástupem |
-| Prázdná hlava | Stres blokuje přístup k paměti | Připravený opening nazpaměť |
-| Rudnutí | Průtok krve | Normální, publikum si toho nevšimne |
+| Fast heartbeat | Adrenaline | Slow exhale (4 sec.) |
+| Shaky voice | Tense muscles | Deep breath before going on |
+| Blank mind | Stress blocks access to memory | Opening memorised |
+| Blushing | Blood flow | Normal — the audience won't notice |
 ---
 layout: default
 ---
-# Techniky před výstupem
+# Techniques Before Going On
 
-**2 minuty před nástupem:**
+**2 minutes before you go on:**
 
-- Pomalý nádech nosem (4 s) → výdech ústy (4 s) — opakuj 4×
-- Stůj rovně, ramena dozadu — tělo ovlivňuje mysl
-- Zaměř se na **jednu první větu**, ne na celou prezentaci
+- Slow inhale through the nose (4 s) → exhale through the mouth (4 s) — repeat 4×
+- Stand tall, shoulders back — your body influences your mind
+- Focus on **your first sentence**, not the entire presentation
 
-<div class="callout warning">⚡ Největší lék na trému: příprava. Čím lépe znáš materiál, tím méně prostoru má tréma.</div>
+<div class="callout warning">⚡ The best cure for nerves is preparation. The better you know your material, the less room nerves have.</div>

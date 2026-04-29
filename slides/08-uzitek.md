@@ -2,7 +2,7 @@
 layout: image-right
 image: /uzitek.jpg
 ---
-# Zdůrazni užitek
+# Highlight the Value
 
-- Dej jim důvod, proč **to** mají poslouchat
-- Proč mají poslouchat právě **TEBE**
+- Give them a reason to listen to **this**
+- Why should they listen to **YOU** specifically

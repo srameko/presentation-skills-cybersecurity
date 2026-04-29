@@ -2,7 +2,7 @@
 layout: image-right
 image: /gesta.jpg
 ---
-# Používej gesta
+# Use Gestures
 
-- Dovolí ti lépe dýchat
-- Zvyšují pozornost diváků
+- They help you breathe better
+- They increase audience attention

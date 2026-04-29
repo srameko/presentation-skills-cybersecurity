@@ -1,7 +1,7 @@
 ---
 theme: ./theme
-title: "Prezentační dovednosti"
-info: "Jak prezentovat a vystupovat před lidmi"
+title: "Presentation Skills"
+info: "How to present and speak in public"
 author: Ondřej Šrámek
 mdc: true
 shiki:
@@ -11,11 +11,11 @@ fonts:
   sans: Open Sans
   mono: Source Code Pro
 ---
-# Prezentační dovednosti
+# Presentation Skills
 
-Jak prezentovat a vystupovat před lidmi
+How to Present and Speak in Public
 
-Ondřej Šrámek · Czechitas · Květen 2026
+Ondřej Šrámek · Czechitas · May 2026
 ---
 layout: bio
 image: /ondrej.png
@@ -32,7 +32,7 @@ src: ./slides/00-agenda.md
 ---
 layout: section
 ---
-# Začátek
+# Opening
 ---
 src: ./slides/14-nervozita.md
 ---
@@ -51,7 +51,7 @@ src: ./slides/12-cviceni-opening-30s.md
 ---
 layout: section
 ---
-# Obsah
+# Content
 ---
 src: ./slides/05-struktura.md
 ---
@@ -67,7 +67,7 @@ src: ./slides/09-obrazy.md
 ---
 layout: section
 ---
-# Doručení
+# Delivery
 ---
 src: ./slides/10-postoj-neverbalni-mikrofon.md
 ---
@@ -86,7 +86,7 @@ src: ./slides/13-cviceni-mikro-prezentace.md
 ---
 layout: section
 ---
-# Nečekané
+# The Unexpected
 ---
 src: ./slides/06-otazky.md
 ---

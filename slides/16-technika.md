@@ -2,15 +2,15 @@
 layout: default
 ---
 
-# Technika
+# Equipment
 
-## Mikrofon
-- Mluvíme přímo do mikrofonu
-- Zkontroluj si jestli funguje
-- Drž konzistentní hlasitost, pracuj s pauzou a důrazem
+## Microphone
+- Speak directly into the microphone
+- Check it works before you start
+- Keep consistent volume — work with pause and emphasis, not loudness
 
-## Prezentér
-- Laser vs. softwarové ukazovátko
+## Clicker
+- Laser pointer vs. software highlighter
 
-## Informace
-- Někde vidíš náhled slajdů, včetně zbývajícího času
+## Display
+- You may have a slide preview including remaining time
