@@ -11,5 +11,4 @@ image: /obrazy.jpg
 | Proces | Šipky, diagram |
 | Číslo | Velké číslo + kontext |
 | Příběh | Fotka, ilustrace |
----
 

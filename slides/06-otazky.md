@@ -4,8 +4,6 @@ image: /otazky.jpg
 ---
 # Připrav se na těžké otázky
 
-Na námitky vždy odpověz:
-
 ```mermaid
 graph TD
     A([😊 Empatie]) --> B([🔍 Konkretizace]) --> C([💬 Argumentace]) --> D([✅ Ověření])

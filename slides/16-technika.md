@@ -2,6 +2,15 @@
 layout: default
 ---
 
-# Práce s mikrofonem
+# Technika
+
+## Mikrofon
 - Mluvíme přímo do mikrofonu
-- Drž konzistentní hlasitost, pracuj s pauzou a důrazem, ne s křikem
+- Zkontrolujte si jestli funguje
+- Držte konzistentní hlasitost, pracujte s pauzou a důrazem
+
+## Prezentér
+- Laser vs. softwarové ukazovátko
+
+## Informace
+- Někde vidíte náhled slajdů, včetně zbývajícího času

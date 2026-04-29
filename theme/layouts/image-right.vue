@@ -31,7 +31,7 @@ const imageSrc = computed(() => {
 <style scoped>
 .image-right {
   display: grid;
-  grid-template-columns: 2fr 3fr;
+  grid-template-columns: 3fr 2fr;
   gap: 2rem;
   padding: 2.5rem 0 2rem 3rem;
   position: relative;
@@ -45,6 +45,10 @@ const imageSrc = computed(() => {
 .left-content :deep(h1) {
   font-size: 2rem;
   margin-bottom: 1rem;
+  white-space: nowrap;
+}
+.left-content :deep(table) {
+  width: 100%;
 }
 .right-image {
   height: 100%;
