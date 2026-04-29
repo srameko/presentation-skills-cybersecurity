@@ -31,7 +31,7 @@ const imageSrc = computed(() => {
 <style scoped>
 .image-right {
   display: grid;
-  grid-template-columns: 3fr 2fr;
+  grid-template-columns: 2fr 3fr;
   gap: 2rem;
   padding: 2.5rem 0 2rem 3rem;
   position: relative;

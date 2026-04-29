@@ -39,7 +39,7 @@
 }
 
 .slidev-layout h1 { font-size: 2.5rem; }
-.slidev-layout h2 { font-size: 2rem; }
+.slidev-layout h2 { font-size: 1.3rem; color: var(--czechitas-pink); }
 .slidev-layout h3 { font-size: 1.5rem; }
 
 /* Links */
