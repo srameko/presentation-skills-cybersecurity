@@ -6,11 +6,11 @@ layout: default
 
 ## Mikrofon
 - Mluvíme přímo do mikrofonu
-- Zkontrolujte si jestli funguje
-- Držte konzistentní hlasitost, pracujte s pauzou a důrazem
+- Zkontroluj si jestli funguje
+- Drž konzistentní hlasitost, pracuj s pauzou a důrazem
 
 ## Prezentér
 - Laser vs. softwarové ukazovátko
 
 ## Informace
-- Někde vidíte náhled slajdů, včetně zbývajícího času
+- Někde vidíš náhled slajdů, včetně zbývajícího času

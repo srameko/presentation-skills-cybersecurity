@@ -3,7 +3,7 @@ layout: default
 ---
 # Cvičení 2: Opening 30 sekund (15–20 min)
 
-Každý si připraví úvod ve struktuře:
+Každá si připraví úvod ve struktuře:
 
 - Hook: jedna věta, která získá pozornost
 - Proč to má publikum poslouchat

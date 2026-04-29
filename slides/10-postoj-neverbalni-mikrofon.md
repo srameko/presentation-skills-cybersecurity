@@ -5,10 +5,10 @@ layout: default
 
 - Začni stabilním postojem: nohy na šířku ramen, ramena dolů, hlava vzhůru
 - Otevřené dlaně a klidná gesta pomáhají působit sebejistě
-- Pohledem si čas od času prohlédněte publikum, ne jen na monitor nebo jednu osobu
+- Pohledem si čas od času prohlédni publikum, ne jen monitor nebo jednu osobu
 
 <div class="callout">
-Buďte sami sebou, autentičtí.
+Buď sama sebou, autentická.
 </div>
 
 

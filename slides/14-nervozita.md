@@ -3,13 +3,13 @@ layout: default
 ---
 # Tréma je normální
 
-> I zkušení řečníci mají před výstupem zvýšený tep.
+> I zkušené řečnice mají před výstupem zvýšený tep.
 
 Tréma není nepřítel — je to **energie**. Tělo se připravuje na výkon.
 
 Problém není tréma samotná, ale to, jak ji **interpretujeme**.
 
-<div class="callout">💡 Reframe: „Jsem nervózní" → „Jsem připravený. Tělo mi dává energii."</div>
+<div class="callout">💡 Reframe: „Jsem nervózní" → „Jsem připravená. Tělo mi dává energii."</div>
 ---
 layout: default
 ---
