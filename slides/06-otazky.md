@@ -4,6 +4,8 @@ image: /otazky.jpg
 ---
 # Připrav se na těžké otázky
 
+<div class="flex justify-center">
+
 ```mermaid
 graph TD
     A([😊 Empatie]) --> B([🔍 Konkretizace]) --> C([💬 Argumentace]) --> D([✅ Ověření])
@@ -12,3 +14,5 @@ graph TD
     style C fill:#2D2E83,stroke:none,color:#fff
     style D fill:#00BFE7,stroke:none,color:#222
 ```
+
+</div>
