@@ -1,6 +1,6 @@
-# Prezentační dovednosti
+# Presentation skills
 
-Prezentace pro kurz Digital Academy: Cybersecurity od Czechitas. Téma: prezentační dovednosti — jak efektivně připravit a přednést prezentaci.
+Presentation skills for Cybersecurity academy by Czechitas.
 
 ## Slides
 
