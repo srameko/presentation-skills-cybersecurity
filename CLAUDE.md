@@ -21,7 +21,6 @@ Enable GitHub Pages in the new repo:
 - Repo must be **public** (Pages is not available for private repos on the free plan)
 - Go to **Settings → Pages → Source** → set to **GitHub Actions**
 - Without this the deploy job will fail with HTTP 404
-- The template repo itself is private — deploy fails there by design, that is expected and OK
 
 ---
 
@@ -275,69 +274,7 @@ Replace `REPO_NAME` with the actual repo name.
 1. Repo must be **public**
 2. GitHub Pages must be enabled: Settings → Pages → Source → **GitHub Actions**
 
-> The template repo (`czechitas-cybersecurity-slidev-template`) is private — the deploy job fails there by design. The build and PDF export steps still pass and can be verified in CI.
-
-The full workflow (`.github/workflows/deploy-slides.yml`):
-```yaml
-name: Deploy Slides
-
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
-jobs:
-
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build Slidev
-        run: npm run build
-
-      - name: Export PDF
-        run: npx slidev export --output dist/REPO_NAME.pdf
-
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-```
+The workflow in `.github/workflows/deploy-slides.yml` builds the deck, exports the PDF and deploys to GitHub Pages. Read that file for the current steps — actions are pinned to commit SHAs and kept current by Dependabot.
 
 When creating a repo from this template, replace `REPO_NAME` on the `Export PDF` line with the actual repo name (same value as in `package.json` build script).
 
@@ -431,4 +368,3 @@ This repository (`czechitas-cybersecurity-slidev-template`) is the **source of t
 - **PDF export failing** — do not add `playwright install-deps` to CI; `playwright-chromium` in devDependencies is sufficient.
 - **REPO_NAME not replaced** — `package.json` and `.github/workflows/deploy-slides.yml` both contain `REPO_NAME` placeholder; replace both before first deploy.
 - **Deploy fails with HTTP 404** — GitHub Pages is not enabled or the repo is private. Go to Settings → Pages → Source → GitHub Actions. Repo must be public.
-- **Deploy fails in the template repo** — expected, the template repo is private. Build and PDF export still run and pass.
